@@ -1,0 +1,14 @@
+C:\Users\megah\source\repos\FirstTask\FirstTask\bin\Debug\FirstTask.exe.config
+C:\Users\megah\source\repos\FirstTask\FirstTask\bin\Debug\FirstTask.exe
+C:\Users\megah\source\repos\FirstTask\FirstTask\bin\Debug\FirstTask.pdb
+C:\Users\megah\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.AssemblyReference.cache
+C:\Users\megah\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\megah\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.StartForm.resources
+C:\Users\megah\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.Properties.Resources.resources
+C:\Users\megah\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.GenerateResource.cache
+C:\Users\megah\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\megah\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.exe
+C:\Users\megah\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.pdb
+C:\Users\megah\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.Forms.SettingsForm.resources
+C:\Users\megah\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.Forms.MainForm.resources
+C:\Users\megah\source\repos\FirstTask\FirstTask\obj\Debug\FirstTask.Forms.COMPortSettingsForm.resources
