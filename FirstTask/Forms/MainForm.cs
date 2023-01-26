@@ -155,7 +155,9 @@ namespace FirstTask.Forms
                 {
                     try
                     {
-                        serialPort1.WriteLine("Space click " + _spaceClicks + "   ");
+                        serialPort1.WriteLine(_spaceClicks.ToString());
+                        serialPort1.Close();
+                        serialPort1.Open();
                     }
                     catch (Exception ex)
                     {
